@@ -1,0 +1,8 @@
+{
+    "target_controller_name": "Logicool G HUB G29 Driving Force Racing Wheel USB",
+    "sound_file_path": "reverse.wav",
+    "sound_volume": 50,
+    "button_index": 18,
+    
+    "debug": "false"
+}
