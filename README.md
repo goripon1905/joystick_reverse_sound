@@ -1,2 +1,5 @@
 # joystick_reverse_sound
 ステアリングコントローラーのシフターをRレンジに入れた時に音を鳴らす
+
+
+exeファイルのダウンロードは「Releases」からどうぞ
